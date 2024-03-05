@@ -54,7 +54,8 @@ print(f"Received {data!r}")
 ![image](https://github.com/SaiSanjiv/Echoserver/assets/151772975/b296501b-ee41-4a0b-9c3a-b370a5bb84a9)
 
 ## CLIENT SIDE:
-![image](https://github.com/SaiSanjiv/Echoserver/assets/151772975/dbf79920-cb5e-4e43-bbf4-da019a959dd6)
+![image](https://github.com/SaiSanjiv/Echoserver/assets/151772975/ec1ab434-472f-4b30-909e-28e7d08684dc)
+
 
 
 
